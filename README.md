@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PowerBI, SQL and VBA
 - 💞️ I’m looking for data analytics jobs/internships.
 - 📫 You can reach me on nazz61887@gmail.com
-- I finished paid Basic to Advanced Excel Training
+
 
 <!--
 **Nazzir18/Nazzir18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
