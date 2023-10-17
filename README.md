@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nazzir18
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning PowerBI, SQL and VBA
+- 🌱 I’m currently learning PowerBI, Tableau and SQL
 - 💞️ I’m looking for data analytics jobs/internships.
 - 📫 You can reach me on nazz61887@gmail.com
 
